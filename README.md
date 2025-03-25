@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Aldair, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -10,11 +10,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 12 anos de idade, quando queria desbloquear várias coisas nos jogos que eu me divertia muito, especialmente o Shadow Fight 2. Me lembro como se fosse hoje o quanto vasculhei a internet inteira buscando uma forma de resolver isso. Foi então que finalmente encontrei aplicativos que facilitaram minha vida nesse processo. Naquele momento, percebi o quanto a tecnologia podia me permitir criar soluções e modificar o que eu quisesse. Foi aí que eu decidi: queria ser um programador.
+- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@aldair.rochaofc) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 🏎 &nbsp; Sou apaixonado por música, especialmente por openings e OST , e costumo jogar FPS no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 💵 &nbsp; Também gosto muito de tocar ao vivo em shows e igrejas.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
